@@ -1,0 +1,16 @@
+/* Button */
+.signin-button:hover {
+    color: black;
+}
+
+/* Navbar Content */
+.isDisabled {
+    opacity: 0.5;
+    text-decoration: none;
+    cursor: default;
+}
+
+/* .card:hover {
+    cursor: pointer;
+    background-color: darkgrey;
+} */
